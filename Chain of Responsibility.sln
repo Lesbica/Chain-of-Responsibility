@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain of Responsibility", "Chain of Responsibility\Chain of Responsibility.csproj", "{ECEBFD52-6383-4BE3-AB8B-0434EFDF5633}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{2F6B7D0E-664C-48E6-BA38-68958061BADE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ECEBFD52-6383-4BE3-AB8B-0434EFDF5633}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECEBFD52-6383-4BE3-AB8B-0434EFDF5633}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECEBFD52-6383-4BE3-AB8B-0434EFDF5633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6B7D0E-664C-48E6-BA38-68958061BADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6B7D0E-664C-48E6-BA38-68958061BADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6B7D0E-664C-48E6-BA38-68958061BADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6B7D0E-664C-48E6-BA38-68958061BADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
